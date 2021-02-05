@@ -18,3 +18,19 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | cp | | Kopiowanie plików | | 
 | mv | | Przenoszenie plikow | |
 | pwd | | Print Working Directory – wypisz katalog roboczy | |
+| chmod | | Zmienia uprawnienia podanego użytkownika do określonego zasobu | |
+| lsblk | | | |
+| du | | | | 
+| set | | | | 
+| $zmienna | | | | 
+| export | | | | 
+| which | | | | 
+| tim | | | | 
+| alias | | | | 
+| mkdir | | | | 
+| echo | | | | 
+| wc | | | | 
+| grep | | | | 
+| translate | | | | 
+| sort | | | | 
+| test | | | | 
