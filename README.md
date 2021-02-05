@@ -9,7 +9,7 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | help | | pomoc | |
 | cd | cd sciezka | Zmiana aktualnego katalogu | cd ../abc <br> cd ./abc <br> cd abc/ <br> cd /abc/|
 | ls | | Wyświetla zawartość podanej ścieżki | ls abc|
-| cat | | | | 
+| cat | cat nazwa_pliku | Wyświetla zawartość pliku | | 
 | touch | touch nazwa_pliku | Tworzy plik | touch abc.txt|
 | nano | nano nazwa_pliku | Otwiera edytor tekstu NANO | nano abc.txt|
 | vi | | Otwiera edytor tekstu Vi | |
