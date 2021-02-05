@@ -43,7 +43,7 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | which | | | | 
 | tim | | | | 
 | alias | | | | 
-| echo | | | | 
+| echo | echo "tekst" | Drukuje na konsoli wskazany tekst| echo "Robercik to koks" | 
 | wc | | | | 
 | grep | | | | 
 | translate | | | | 
