@@ -17,3 +17,4 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | rm | | | |
 | cp | | Kopiowanie plików | | 
 | mv | | Przenoszenie plikow | |
+| pwd | | Print Working Directory – wypisz katalog roboczy | |
