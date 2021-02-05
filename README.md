@@ -29,12 +29,8 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | polecenie | parametry | opis | przykład|
 |-----------|-----------|------|---------|
 | ls | | Wyświetla zawartość podanej ścieżki | ls abc|
-<<<<<<< HEAD
 | cat | cat nazwa_pliku | Wyświetla zawartość pliku | cat ./Home/file1 | 
 | touch | touch nazwa_pliku | Tworzy plik | touch abc.txt|
-=======
-| cat | cat nazwa_pliku | Wyświetla zawartość pliku | | 
->>>>>>> upstream/sekcje
 | nano | nano nazwa_pliku | Otwiera edytor tekstu NANO | nano abc.txt|
 | vi | | Otwiera edytor tekstu Vi | |
 | stat | | | |
