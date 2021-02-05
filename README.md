@@ -48,4 +48,4 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | translate | | | | 
 | sort | | | | 
 | test | | | | 
-| ln | | | |
+| ln | | Tworzy dowiązanie | |
