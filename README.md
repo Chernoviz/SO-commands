@@ -22,6 +22,18 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | cp | | Kopiowanie plików | | 
 | mv | | Przenoszenie plikow | |
 | pwd | | Print Working Directory – wypisz katalog roboczy | |
+| touch | touch nazwa_pliku | Tworzy plik o podanej nazwie bądź zmienia datę modyfikacji lub ostatniego dostępu pliku (jeśli istnieje) | touch abc.txt|
+| ln | | Tworzy dowiązanie | |
+| chmod | | Zmienia uprawnienia podanego użytkownika do określonego zasobu | |
+
+<br><br>
+
+## Edytory tekstu
+
+| polecenie | parametry | opis | przykład|
+|-----------|-----------|------|---------|
+| nano | nano nazwa_pliku | Otwiera edytor tekstu NANO | nano abc.txt|
+| vi | | Otwiera edytor tekstu Vi | |
 
 <br><br>
 ## Inne polecenia
@@ -30,11 +42,7 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 |-----------|-----------|------|---------|
 | ls | | Wyświetla zawartość podanej ścieżki | ls abc|
 | cat | cat nazwa_pliku | Wyświetla zawartość pliku | cat ./Home/file1 | 
-| touch | touch nazwa_pliku | Tworzy plik | touch abc.txt|
-| nano | nano nazwa_pliku | Otwiera edytor tekstu NANO | nano abc.txt|
-| vi | | Otwiera edytor tekstu Vi | |
 | stat | | | |
-| chmod | | Zmienia uprawnienia podanego użytkownika do określonego zasobu | |
 | lsblk | | | |
 | du | | | | 
 | set | | | | 
@@ -49,4 +57,5 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 | translate | | | | 
 | sort | | | | 
 | test | | | | 
-| ln | | Tworzy dowiązanie | |
+
+<br><br>
