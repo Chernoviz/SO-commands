@@ -42,7 +42,7 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 |-----------|-----------|------|---------|
 | cat | cat&nbsp;nazwa_pliku | Wyświetla zawartość pliku | cat&nbsp;./Home/file1 | 
 | stat | | | |
-| lsblk | | | |
+| lsblk | | Wyświetla dostępne urządzenia blokowe | lsblk |
 | du | | | | 
 | set | | | | 
 | $zmienna | | | | 
