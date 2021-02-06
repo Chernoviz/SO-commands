@@ -8,6 +8,7 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 |-----------|-----------|------|---------|
 | man | man&nbsp;nazwa_polecenia | Wyświetla instrukcję podanego polecenia | man&nbsp;ls <br> man&nbsp;cd |
 | help | | pomoc | |
+| ls | | Wyświetla zawartość podanej ścieżki | ls&nbsp;abc|
 
 <br><br>
 
@@ -17,12 +18,11 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 |-----------|-----------|------|---------|
 | cd | cd&nbsp;sciezka | Zmiana aktualnego katalogu | cd&nbsp;../abc <br> cd&nbsp;./abc <br> cd&nbsp;abc/ <br> cd&nbsp;/abc/|
 | mkdir | | Tworzenie katalogu | | 
-| touch | touch nazwa_pliku | Tworzy plik | touch&nbsp;abc.txt|
 | rm | | Usunięcie katalogu lub pliku | |
 | cp | | Kopiowanie plików | | 
 | mv | | Przenoszenie plikow | |
 | pwd | | Print Working Directory – wypisz katalog roboczy | |
-| touch | touch nazwa_pliku | Tworzy plik o podanej nazwie bądź zmienia datę modyfikacji lub ostatniego dostępu pliku (jeśli istnieje) | touch&nbsp;abc.txt|
+| touch | touch&nbsp;nazwa_pliku | Tworzy plik o podanej nazwie bądź zmienia datę modyfikacji lub ostatniego dostępu pliku (jeśli istnieje) | touch&nbsp;abc.txt|
 | ln | | Tworzy dowiązanie | |
 | chmod | | Zmienia uprawnienia podanego użytkownika do określonego zasobu | |
 
@@ -40,7 +40,6 @@ Repozytorium zawierające listę komend z przedmiotu Systemy Operacyjne
 
 | polecenie | parametry | opis | przykład|
 |-----------|-----------|------|---------|
-| ls | | Wyświetla zawartość podanej ścieżki | ls&nbsp;abc|
 | cat | cat&nbsp;nazwa_pliku | Wyświetla zawartość pliku | cat&nbsp;./Home/file1 | 
 | stat | | | |
 | lsblk | | | |
